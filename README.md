@@ -1,6 +1,17 @@
-# Sale_Website
-Java 6 - Project
+# Store Management System
 
+A web application designed to help manage store operations such as products, inventory, and orders.
 
-9704198526191432198
-07/15
+The system allows administrators to manage product information and track store inventory.
+
+## Features
+
+- Product management
+- Inventory tracking
+- Order management
+- Basic store operation management
+  
+## Author
+
+Trieu Luong Van  
+Java Backend Developer
